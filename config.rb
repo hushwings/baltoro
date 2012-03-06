@@ -2,10 +2,10 @@
 project_type = :stand_alone
 
 # Publishing paths
-http_path = "/"
-http_images_path = "/images"
-http_fonts_path = "/fonts"
-css_dir = "public/stylesheets"
+http_path = "/baltoro/"
+http_images_path = "/baltoro/images"
+http_fonts_path = "/baltoro/fonts"
+css_dir = "public/baltoro/stylesheets"
 
 # Local development paths
 sass_dir = "sass"
