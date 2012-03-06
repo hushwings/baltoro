@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://hushwings.github.com/baltoro/atom.xml" rel="self"/>
   <link href="http://hushwings.github.com/baltoro/"/>
-  <updated>2012-03-07T00:31:22+08:00</updated>
+  <updated>2012-03-07T01:19:53+08:00</updated>
   <id>http://hushwings.github.com/baltoro/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -27,7 +27,7 @@
     <link href="http://hushwings.github.com/baltoro/blog/2012/03/06/qi-dong-blog/"/>
     <updated>2012-03-06T21:38:00+08:00</updated>
     <id>http://hushwings.github.com/baltoro/blog/2012/03/06/qi-dong-blog</id>
-    <content type="html"><![CDATA[
+    <content type="html"><![CDATA[<p><video width='640' height='320' preload='none' controls poster=' http://s3.imathis.com/video/zero-to-fancy-buttons.png'><source src='http://s3.imathis.com/video/zero-to-fancy-buttons.mp4' type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"'/></video></p>
 ]]></content>
   </entry>
   
