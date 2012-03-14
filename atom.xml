@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://hushwings.github.com/baltoro/atom.xml" rel="self"/>
   <link href="http://hushwings.github.com/baltoro/"/>
-  <updated>2012-03-07T15:21:10+08:00</updated>
+  <updated>2012-03-14T10:29:20+08:00</updated>
   <id>http://hushwings.github.com/baltoro/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -23,7 +23,7 @@
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[启动Blog]]></title>
+    <title type="html"><![CDATA[启动Blog 改标题]]></title>
     <link href="http://hushwings.github.com/baltoro/blog/2012/03/06/qi-dong-blog/"/>
     <updated>2012-03-06T21:38:00+08:00</updated>
     <id>http://hushwings.github.com/baltoro/blog/2012/03/06/qi-dong-blog</id>
